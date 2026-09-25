@@ -5,7 +5,7 @@ My personal journey into AI/ML, documented as I go.
 **Why This Repo?**
 Less about showing off, more about building in public and holding myself accountable.
 
-Nothing here is AI generated (except [the roadmap](./Frontier%20AI%20Roadmap.pdf)), although AI has been very helpful in providing direction and sourcing for materials.
+Funny story: a few people have pointed out my use of LaTeX for math as proof of AI use. To be clear, nothing here is AI generated (except [the roadmap](./Frontier%20AI%20Roadmap.pdf)), although AI has been very helpful in providing direction and sourcing for materials.
 
 ## My Progress
 
